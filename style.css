@@ -1,0 +1,9 @@
+.header{
+    display: block;    
+    width: 100%;    
+    padding: 10% 0 0 35%;
+}
+
+body {
+    background-image: url(images/background.jpg);
+}
