@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\js"
   ],
-  "SelectedNode": "\\style.css",
+  "SelectedNode": "\\js\\bootstrap.bundle.js",
   "PreviewInSolutionExplorer": false
 }

@@ -1,4 +1,4 @@
-.header{
+.header {
     display: block;    
     width: 100%;    
     padding: 10% 0 0 35%;
@@ -8,7 +8,7 @@ body {
     background-image: url(images/background.jpg);
 }
 
-.button-start{
+.button-start {
     color: #fff;
     background-color: RGBA(255, 185, 50, 0.7);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
